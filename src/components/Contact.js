@@ -102,7 +102,7 @@ export default function Contact() {
           </button>
         </form>
       </div>
-      <a class="text-xs italic opacity-10" href="https://www.freepik.com/vectors/man">Man vector created by upklyak - www.freepik.com</a>
+      <a class="text-xs italic opacity-30" href="https://www.freepik.com/vectors/man">Man vector created by upklyak - www.freepik.com</a>
     </section>
   );
 }
